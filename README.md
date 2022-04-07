@@ -43,3 +43,13 @@ Penggunaan Operator Switch Untuk Seleksi Kondisi
 ## Pembuatan Form
 Form Input
 ![img](img/img14.png)
+
+Form Button
+![img](img/img15.png)
+![img](img/img16.png)
+![img](img/img17.png)
+![img](img/img18.png)
+
+## HTML DOM
+Pilihan menggunakan checkBox dengan perhitungan otomatis
+![img](img/img19.png)
