@@ -12,7 +12,15 @@ Dan lihat hasilnya pada web browser
 ![img](img/img2.png)
 
 ## Javascript Dasar
-Pemakaian Alert sebagai properti window.
+Pemakaian Alert Sebagai Properti Window.
 ![img](img/img3.png)
-Pemakaian metode dalamobjek
+
+Pemakaian Metode Dalam Objek
 ![img](img/img4.png)
+
+Pemakaian Prompt
+![img](img/img5.png)
+![img](img/img6.png)
+
+Pembuatan Fungsi & Cara Pemanggilannya
+![img](img/img7.png)
