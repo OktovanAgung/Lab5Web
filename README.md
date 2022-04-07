@@ -24,3 +24,14 @@ Pemakaian Prompt
 
 Pembuatan Fungsi & Cara Pemanggilannya
 ![img](img/img7.png)
+
+## Dasar Pemrograman Di Javascript
+Oprasi Dasar Aritmatika
+![img](img/img8.png)
+
+Seleksi Kondisi (if...else)
+![img](img/img9.png)
+Jika memasukan nilai kurang dari 60
+![img](img/img10.png)
+Jika memasukan nilai lebih dari 60
+![img](img/img11.png)
