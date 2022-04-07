@@ -35,3 +35,11 @@ Jika memasukan nilai kurang dari 60
 ![img](img/img10.png)
 Jika memasukan nilai lebih dari 60
 ![img](img/img11.png)
+
+Penggunaan Operator Switch Untuk Seleksi Kondisi
+![img](img/img12.png)
+![img](img/img13.png)
+
+## Pembuatan Form
+Form Input
+![img](img/img14.png)
