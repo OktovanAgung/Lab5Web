@@ -53,3 +53,11 @@ Form Button
 ## HTML DOM
 Pilihan menggunakan checkBox dengan perhitungan otomatis
 ![img](img/img19.png)
+
+## Pertanyaan & Tugas
+1. Buat Script untuk melakukan validasi pada isian form
+
+## JAWABAN
+
+## Nama
+Validasi nama hanya bisa diisi dengan alfabet (Abcde...) tidak bisa diisi dengan campuran alfabet dengan angka ataupun hanya angka (Abcde123 / 1234)
