@@ -59,5 +59,21 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 ## JAWABAN
 
-## Nama
-Validasi nama hanya bisa diisi dengan alfabet (Abcde...) tidak bisa diisi dengan campuran alfabet dengan angka ataupun hanya angka (Abcde123 / 1234)
+1. Membuat Validasi Nama, NIM, dan E-mail.
+### Nama
+Validasi nama hanya bisa diisi dengan alfabet (a-z, A-Z) tidak bisa diisi dengan campuran alfabet dengan angka ataupun hanya angka (Abcde123 / 1234)
+![img](img/img20.png)
+Penjelasan :
+- pertama, membuat nama `function Alphabet` dengan parameter dinamis yaitu (nilai,pesan).
+- Data yang boleh diinput berupa `"a-z, A-Z"`.
+- Jika selain data `"a-z, A-Z"` yang diinput maka akan muncul pesan Alert `"alert(pesan)"`.
+![img](img/img26.png)
+
+### NIM
+Validasi NIM hanya boleh berisi angka (0-9), tidak bisa diisi dengan huruf alfabet.
+![alert1](img/img21.png)
+Penjelasan :
+- var numberExp = /^[0-9]+$/; merupakan variabel numberExp yang diberi batasan validasi angka (0-9)
+- Arti Match pada "if(nilai.value.match(numberExp))" adalah string.match(), mencari string menggunakan Regular Expression (Regex)
+- Jika inputan tidak benar maka akan ada pesan alert "alert(pesan);"
+![alert2](img/img27.png)
