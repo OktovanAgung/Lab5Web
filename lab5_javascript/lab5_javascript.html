@@ -46,11 +46,14 @@
 		}
 	}
 
+<!--menambahkan validasi-->
     function validasi() {
-        Alphabet(document.getElementById('nama'), 'Nama harus Huruf semua!!');
-        Number(document.getElementById('telp'), 'Telp. hanya ber isi Nomor!!');
-        cekEmail(document.getElementById('email'), 'Email tidak benar!!');
+        Alphabet(document.getElementById('nama'), 'Nama Hanya Boleh Berisi Hurufa-z, A-Z.');
+        Number(document.getElementById('telp'), 'NIM Hanya Berisi Angka 0-9');
+        cekEmail(document.getElementById('email'), 'E-Mail Tidak Tersedia');
     }
+
+<!--menambahkan form-->
 </script>
 	<form>
 		<p>Nama :
